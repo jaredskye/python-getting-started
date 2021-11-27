@@ -1,3 +1,7 @@
+To run locally open CMD, CD to Directory, and run heroku local -f Procfile.windows.
+Then open the app and start editing, can refresh in real time as long as that service ^^ is running.
+Left off at: https://devcenter.heroku.com/articles/getting-started-with-python#scale-the-app
+
 # Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
